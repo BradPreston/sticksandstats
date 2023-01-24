@@ -9,4 +9,6 @@ Sticks and Stats is built using the following tech:
   - React Navigation
   - React Native Elements
 
-*** Sticks and Stats is not affiliated with the NHL in any way. This is a personal project built by Brad Preston ***
+***
+Sticks and Stats is not affiliated with the NHL in any way. This is a personal project built by Brad Preston
+***
