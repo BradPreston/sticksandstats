@@ -8,7 +8,7 @@ export default function App() {
 	const Tab = createBottomTabNavigator();
 
 	return (
-		<NavigationContainer>
+		<NavigationContainer key="navigation">
 			<Tab.Screen name="Home" component={HomeScreen} />
 			<Tab.Screen name="Select Player" component={SelectPlayerScreen} />
 		</NavigationContainer>
