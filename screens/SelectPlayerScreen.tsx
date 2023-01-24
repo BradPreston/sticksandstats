@@ -1,8 +1,6 @@
-import React from 'react'
-import { View } from 'react-native'
+import React from 'react';
+import { View } from 'react-native';
 
 export default function SelectPlayerScreen() {
-  return (
-    <View>Select Player Screen</View>
-  )
+	return <View>Select Player Screen</View>;
 }
